@@ -1,1 +1,11 @@
-
+Order ID,Customer ID,Product,Category,Price,Quantity,Purchase Date,Payment Method
+10001,1001,Handbag,Accessory,59.99,1,2023-07-15,Credit Card
+10002,1002,T-Shirt,Apparel,19.99,2,2023-07-16,PayPal
+10003,1003,Laptop,Electronics,999.00,1,2023-07-18,Credit Card
+10004,1004,Sneakers,Footwear,89.99,1,2023-07-20,Debit Card
+10005,1005,Watch,Accessory,120.00,1,2023-07-22,Cash
+10006,1006,Tunic,Apparel,35.50,3,2023-07-23,Credit Card
+10007,1007,Backpack,Accessory,75.00,1,2023-07-25,PayPal
+10008,1008,Jeans,Apparel,49.99,2,2023-07-27,Credit Card
+10009,1009,Smartphone,Electronics,599.00,1,2023-07-29,Cash
+10010,1010,Jacket,Apparel,89.00,1,2023-08-01,Debit Card
